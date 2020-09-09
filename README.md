@@ -1,2 +1,2 @@
-# Project1-A_Star_Wars_Story
-Star Wars movies broken down with data
+# Project 1: A Star Wars Story
+Star Wars movies, Episodes 1-6, broken down with data
