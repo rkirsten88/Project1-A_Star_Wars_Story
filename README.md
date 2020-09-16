@@ -4,7 +4,7 @@ https://github.com/rkirsten88/Project1-A_Star_Wars_Story.git
 
 Data source: “https://swapi.dev/api/”
 
-Project Description/Outline (Proposal):
+# Project Description/Outline (Proposal):
 Utilizing the Star Wars API from the class activities, we're going to attempt to visualize the differences in different species and character via heights and masses, and also try and build a dataframe to compare different Jedi species' attributes and determine "which Jedi" would be the best suited for a particular type of mission, based on the different planetary data. 
 
 Research Questions:
