@@ -1,16 +1,15 @@
 # Project 1 - A Star Wars Story
-Group 4: Abhijit Purru, Elise Eng, Jeff Chow, Rob Kirsten
-https://github.com/rkirsten88/Project1-A_Star_Wars_Story.git 
-
-Data source: “https://swapi.dev/api/”
+<p>Group 4: Abhijit Purru, Elise Eng, Jeff Chow, Rob Kirsten</p>
+<p>https://github.com/rkirsten88/Project1-A_Star_Wars_Story.git</p> 
+<p>Data source: “https://swapi.dev/api/”</p>
 
 ## Project Description/Outline (Proposal):
-Utilizing the Star Wars API from the class activities, we're going to attempt to visualize the differences in different species and character via heights and masses, and also try and build a dataframe to compare different Jedi species' attributes and determine "which Jedi" would be the best suited for a particular type of mission, based on the different planetary data. 
+<p>Utilizing the Star Wars API from the class activities, we're going to attempt to visualize the differences in different species and character via heights and masses, and also try and build a dataframe to compare different Jedi species' attributes and determine "which Jedi" would be the best suited for a particular type of mission, based on the different planetary data.</p> 
 
 ## Research Questions:
-Questions you found interesting and what motivated you to answer them
--1. Compare planets used in the movies → how it changes over time → can we predict in future movies
---Collect number of planets per movie
++ Questions you found interesting and what motivated you to answer them
+1. Compare planets used in the movies → how it changes over time → can we predict in future movies
+  + Collect number of planets per movie
 See if they can be classified & sorted as homogeneous types of planets
 Create a line plot of number of planets per movie over time 
 Can we use this to predict the types & number of planets in the next movie?
@@ -26,12 +25,12 @@ Compare cargo capacity, average mean/sd, etc and to real life cargos https://www
 Movies to movies
 
 ## Datasets to be used:
-Where and how you found the data you used to answer these questions
-We were interested in analyzing the Star Wars dataset found from our class activities. 
+<p>Where and how you found the data you used to answer these questions?<br>
+We were interested in analyzing the Star Wars dataset found from our class activities.</p> 
 
 ## Rough Breakdown of Tasks:  
--Import dependencies
--Create variables
--Data exploration/cleanup
--Analysis/2 visuals per question (6-8 total)
--Summary of findings
++ Import dependencies
++ Create variables
++ Data exploration/cleanup
++ Analysis/2 visuals per question (6-8 total)
++ Summary of findings
