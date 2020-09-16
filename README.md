@@ -4,7 +4,7 @@
 <p>Data source: “https://swapi.dev/api/”</p>
 
 ## Project Description/Outline (Proposal):
-<p>Utilizing the Star Wars API from the class activities, we're going to attempt to visualize the differences in different species and character via heights and masses, and also try and build a dataframe to compare different Jedi species' attributes and determine "which Jedi" would be the best suited for a particular type of mission, based on the different planetary data.</p> 
+<p>Utilizing the Star Wars API from the class activities, we're going to attempt to visualize the size differences of different characters, species, ships, and planets. We will also attempt to determine how much it would cost to build a "Death Star" using Earth's money. </p> 
 
 ## Research Questions:
 + Questions you found interesting and what motivated you to answer them
