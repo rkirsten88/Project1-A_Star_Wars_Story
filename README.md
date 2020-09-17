@@ -4,15 +4,15 @@
 <p>Data source: “https://swapi.dev/api/”</p>
 
 ## Project Description/Outline (Proposal):
-<p>Utilizing the Star Wars API from the class activities, we're going to attempt to visualize the size differences of different characters, species, ships, and planets. We will also attempt to determine how much it would cost to build a "Death Star" using Earth's money. </p> 
+<p>Utilizing the Star Wars API from the class activities, we're going to use categorical data to visualize the size differences of different characters, species, ships, and planets in Star Wars.  </p> 
 
 ## Research Questions:
 + Questions you found interesting and what motivated you to answer them
-1. Compare planets used in the movies → how it changes over time → can we predict in future movies
-  + Collect number of planets per movie
-See if they can be classified & sorted as homogeneous types of planets
-Create a line plot of number of planets per movie over time 
-Can we use this to predict the types & number of planets in the next movie?
+1. [Compare planets used in the movies → how it changes over time → can we predict in future movies] --> NOT POSSIBLE.
+  + Collect number of planets per movie --> Could still do this.
+See if they can be classified & sorted as homogeneous types of planets --> THEY CANNOT.
+Create a line plot of number of planets per movie over time  --> Could still do this.
+Can we use this to predict the types & number of planets in the next movie? --> NO. Only categorical data.
 Compare vehicles found in the movies → how it changes over time → can we predict in future movies
 Collect number of vehicles per movie
 Compare vehicles used in each movie, is there a trend in types and sizes of vehicles used 
